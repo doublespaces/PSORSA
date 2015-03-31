@@ -16,3 +16,6 @@ Copy the contents of "modifiedprivkey.pem" into the source for decryption.
 In addition, a file named "new128.bin" must be included in the working directory, which 
 includes only the 0x80 bytes of RSA encrypted data. You can find this data through 
 a packet log of a PSO2 client running through the PSO2Proxy software.
+
+
+Big help from Guga on this, and of course the entire Polaris Team, CyberKitsune, Kyle and everyone else involved!
