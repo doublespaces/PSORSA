@@ -19,3 +19,7 @@ a packet log of a PSO2 client running through the PSO2Proxy software.
 
 
 Big help from Guga on this, and of course the entire Polaris Team, CyberKitsune, Kyle and everyone else involved!
+
+EDIT:
+
+The program will now take the RSA decrypted data, extract the RC4 key, and decrypt the response payload. This will likely be the last commit to this project and will be implemented into the main Private Server project.
